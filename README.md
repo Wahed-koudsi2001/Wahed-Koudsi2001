@@ -1,5 +1,7 @@
 <h1>Hi there 👋, I'm Wahed</h1> 
 
+<h2>I'm React Developer</h2>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
