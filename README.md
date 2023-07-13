@@ -1,6 +1,5 @@
 <h1>Hi there 👋, I'm Wahed</h1> 
 
-<!--
 **Wahed-koudsi2001/Wahed-Koudsi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
