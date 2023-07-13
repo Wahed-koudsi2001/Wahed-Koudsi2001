@@ -1,6 +1,9 @@
 <h1>Hi there 👋, I'm Wahed</h1> 
 
-<h2>I'm React Developer</h2> <h3>👨🏻‍💻 About Me</h3>
+<div>
+  <h2>I'm React Developer</h2> 
+  <h3>👨🏻‍💻 About Me</h3>
+</div>
 
 Here are some ideas to get you started:
 
