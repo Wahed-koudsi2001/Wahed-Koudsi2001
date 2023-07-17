@@ -45,7 +45,7 @@
     <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="git" width="40" height="40"/>
   </a>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=512&id=123603&format=png" alt="react" width="40" height="40"/>
   </a> 
   
