@@ -14,7 +14,7 @@
 
 - 💬 Skills: HTML5, CSS3, JS, REACT, BOOTSTRAP, REACT-ROUTER, TAILWIND CSS, ...
 
-- 📫 How to reach me [mohammedkoudsi48@gmail.com@gmail.com]
+- 📫 How to reach me [mohammedkoudsi48@gmail.com]
 
 
 
