@@ -27,7 +27,7 @@
   </a>
   
   <a href="https:/www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="35" height="35"/>
   </a> 
   
   <a href="https:/www.w3schools.com/javascript" target="_blank" rel="noreferrer"> 
