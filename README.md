@@ -2,11 +2,8 @@
 
 <div>
   <h3>I'm React Developer</h3> 
-              <h4>👨🏻‍💻 About Me</h4>
+  <h4>👨🏻‍💻 About Me</h4>
 </div>
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning next.js
