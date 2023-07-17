@@ -7,12 +7,12 @@
 
 - 🤓 Always learning new things 1 **.**
 
-- 🎨 Hobbies: I'm design apps with UI UX
-
 - 💬 Skills: HTML5, CSS3, JS, REACT, BOOTSTRAP, REACT-ROUTER, TAILWIND CSS, ...
 
+- 🎨 Will Learn: Redux, Next, Node.js, ...
+
 - 📫 How to reach me [mohammedkoudsi48@gmail.com]
-- 
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
