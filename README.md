@@ -7,8 +7,6 @@
 
 - 🤓 Always learning new things 1 **.**
 
-- 💬 Skills: HTML5, CSS3, JS, REACT, REDUXTOOLKIT, BOOTSTRAP, REDUXTOOLKIT, NEXT, REACT-ROUTER, TAILWIND CSS, ...
-
 - 🎨 Will Learn: Material UI ,Node.js ...
 
 - 📫 How to reach me [mohammedkoudsi48@gmail.com]
