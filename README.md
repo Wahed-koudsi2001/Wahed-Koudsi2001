@@ -5,7 +5,7 @@
 
 - 👦 I love using Software as a solution for every Problem **.**
 
-- 🤓 Always learning new things 1 **.**
+- 🤓 Always learning new things **.**
 
 - 🎨 Will Learn: Material UI ,Node.js ...
 
