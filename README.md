@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Wahed</h1>
-<h3>I'm a Front-end Developer</h3>
+<h2>I'm a Front-end Developer</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
