@@ -56,5 +56,9 @@
   <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=512&id=19291&format=png" alt="github" width="40" height="40"/> 
   </a> 
-  
+
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer"> 
+    <img src="https://th.bing.com/th/id/OIP.rpiHSO8j5Ng9dzobkcvAkQAAAA?rs=1&pid=ImgDetMain" alt="github" width="40" height="40"/> 
+  </a> 
+
   </p>
