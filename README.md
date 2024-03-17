@@ -32,7 +32,11 @@
   
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" alt="Tailwind" width="40" height="40"/>
-  </a> 
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://iconape.com/wp-content/files/ro/370540/svg/ant-design-logo-icon-png-svg.png" alt="Tailwind" width="40" height="40"/>
+  </a>
 
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> 
     <img src="https://th.bing.com/th/id/OIP.rpiHSO8j5Ng9dzobkcvAkQAAAA?rs=1&pid=ImgDetMain" alt="github" width="40" height="40"/> 
