@@ -3,15 +3,15 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 👦 I love using Software as a solution for every Problem **.**
+-  I love using Software as a solution for every Problem **.**
 
-- 🤓 Always learning new things **.**
+-  Always learning new things **.**
 
-- 🎨 Will Learn: Material UI ,Node.js ...
+-  Will Learn: Material UI ,Node.js ...
 
-- 📫 How to reach me [mohammedkoudsi48@gmail.com]
+-  How to reach me [mohammedkoudsi48@gmail.com]
 
-- 🥇 My Portfolio [https://wahed-koudsi.netlify.app/]
+-  My Portfolio [https://wahed-koudsi.netlify.app/]
   
 <h3 align="left">Languages and Tools:</h3>
 
